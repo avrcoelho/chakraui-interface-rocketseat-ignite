@@ -1,1 +1,1 @@
-# Interfcae with Chakra UI - Rocketseat Ignite
+# Interface with Chakra UI - Rocketseat Ignite
